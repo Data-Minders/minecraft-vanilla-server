@@ -1,0 +1,8 @@
+cache/
+world*/
+logs/
+plugins/
+.console_history
+*.swo
+*.swp
+*.jar
